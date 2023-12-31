@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emoalb
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning C/C++ Java JavaScript
+- 🌱 I’m currently learning C/C++ Java Kotlin JavaScript
 - 💞️ I’m looking for work in the software development field
 - 📫 How to reach me e_alb@abv.bg
 
